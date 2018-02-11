@@ -1,0 +1,21 @@
+PGDnpmr                 Proximal gradient descent for nuclear penalized
+                        multinomial regression
+Vowel                   Vowel Recognition
+cv.npmr                 Cross-validated nuclear penalized multinomial
+                        regression
+logL                    Log-likelihood for multinomial regression model
+npmr                    Nuclear penalized multinomial regression
+npmr-package            Nuclear penalized multinomial regression
+nuclear                 Nuclear norm of a matrix
+objective               NPMR objective function
+objectiveFast           Shortcut computation for NPMR objective
+                        function
+plot.cv.npmr            Visualize the regression coefficient matrix fit
+                        by cross-validated NPMR
+plot.npmr               Visualize the regression coefficient matrix fit
+                        by cross-validated NPMR
+predict.cv.npmr         Make predictions from a "cv.npmr" object
+predict.npmr            Make predictions from a "npmr" object
+print.cv.npmr           summarize a "cv.npmr" object
+print.npmr              Summarize a "npmr" object
+prox                    Proximal operator for nuclear norm

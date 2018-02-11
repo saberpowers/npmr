@@ -1,0 +1,13 @@
+Package: npmr
+Type: Package
+Title: Nuclear Penalized Multinomial Regression
+Version: 1.2
+Date: 2016-08-02
+Author: Scott Powers, Trevor Hastie, Robert Tibshirani
+Maintainer: Scott Powers <saberpowers@gmail.com>
+Description: Fit multinomial logistic regression with a penalty on the nuclear
+    norm of the estimated regression coefficient matrix, using proximal
+    gradient descent.
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2018-02-11 09:54:59 UTC; sspowers
