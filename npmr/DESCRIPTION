@@ -2,7 +2,7 @@ Package: npmr
 Type: Package
 Title: Nuclear Penalized Multinomial Regression
 Version: 1.2
-Date: 2016-08-02
+Date: 2019-01-28
 Author: Scott Powers, Trevor Hastie, Robert Tibshirani
 Maintainer: Scott Powers <saberpowers@gmail.com>
 Description: Fit multinomial logistic regression with a penalty on the nuclear
