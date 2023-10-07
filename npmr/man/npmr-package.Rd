@@ -13,13 +13,6 @@ likelihood of one class informs the likelihood of other classes. Proximal
 gradient descent is used to solve the NPMR optimization problem.
 }
 \details{
-\tabular{ll}{
-Package: \tab npmr\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2016-02-05\cr
-License: \tab What license is it under?\cr
-}
 The primary functions in the package are \code{\link{npmr}}, which solves
 nuclear penalized multinomial regression for a sequence of input values for the
 regularization parameter lambda, and \code{\link{cv.npmr}}, which chooses the
