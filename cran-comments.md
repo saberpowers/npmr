@@ -26,6 +26,4 @@ prox.html:38:1 (prox.Rd:16): Warning: <table> lacks "summary" attribute
 
 (with many more that I've not included)
 
-I'm confused about why I'm seeing this note and how I could fix it. I found this email thread from
-May of last year: https://stat.ethz.ch/pipermail/r-sig-mac/2022-May/014443.html which makes me
-think it may not be my fault.
+I'm confused about why I'm seeing this note and how I could fix it. I found this email thread from May of last year: https://stat.ethz.ch/pipermail/r-sig-mac/2022-May/014443.html which makes me think it may not be my fault. It may only be a problem on macOS.
