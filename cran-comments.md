@@ -7,14 +7,7 @@ I'm submitting this update in response to an email from Kurt Hornik on 8/19/23.
 ## R CMD check results
 There were no ERRORs or WARNINGs. 
 
-There were 2 NOTEs:
-
-* checking CRAN incoming feasibility ... [4s/28s] NOTE
-Maintainer: ‘Scott Powers <saberpowers@gmail.com>’
-
-The Date field is over a month old.
-
-My understanding is that there's nothing to be done about thie one.
+There was 1 NOTE (only on macOS):
 
 * checking HTML version of manual ... NOTE
 Found the following HTML validation problems:
@@ -26,4 +19,4 @@ prox.html:38:1 (prox.Rd:16): Warning: <table> lacks "summary" attribute
 
 (with many more that I've not included)
 
-I'm confused about why I'm seeing this note and how I could fix it. I found this email thread from May of last year: https://stat.ethz.ch/pipermail/r-sig-mac/2022-May/014443.html which makes me think it may not be my fault. It may only be a problem on macOS.
+I'm confused about why I'm seeing this note and how I could fix it. I found this email thread from May of last year: https://stat.ethz.ch/pipermail/r-sig-mac/2022-May/014443.html which makes me think it may not be my fault.
