@@ -153,7 +153,3 @@ plot(fit2)
 # Compute mean test error using the predict function:
 -mean(log(rowSums(Ytest*predict(fit2, Xtest))))
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

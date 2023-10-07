@@ -82,7 +82,3 @@ fit2 = npmr(X, Y, lambda = exp(seq(7, -2)))
 # Produce a biplot:
 plot(fit2, lambda = 20)
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

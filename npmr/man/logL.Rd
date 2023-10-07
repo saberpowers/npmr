@@ -47,7 +47,3 @@ Scott Powers, Trevor Hastie, Rob Tibshirani
 \seealso{
 \code{\link{nuclear}}, \code{\link{objective}}
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

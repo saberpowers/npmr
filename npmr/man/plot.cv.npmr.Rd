@@ -80,7 +80,3 @@ fit2 = cv.npmr(X, Y, lambda = exp(seq(7, -2)), foldid = fold)
 # Produce a biplot:
 plot(fit2)
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
