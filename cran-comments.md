@@ -1,5 +1,3 @@
-I'm submitting this update in response to an email from Kurt Hornik on 8/19/23.
-
 ## Test environments
 * local macOS install, R 4.3.1
 * win-builder (devel)
